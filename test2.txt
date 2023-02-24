@@ -1,0 +1,13 @@
+I'm writing a new file.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
+Open test2.txt for appending at the end of the file without truncating it, 
+using ultipleline string.
